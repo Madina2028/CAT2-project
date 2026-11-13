@@ -26,7 +26,7 @@ button{background:#1e5aa8;color:#fff;border:0;cursor:pointer}
 </head>
 <body>
 <div class="box">
-<h2>Login</h2>
+<h2>CNS Student Login</h2>
 <p style="color:red"><?= $msg ?></p>
 <form method="POST">
   <input name="username" placeholder="Username" required>

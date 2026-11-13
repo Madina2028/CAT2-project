@@ -25,7 +25,7 @@ button{background:#1e5aa8;color:#fff;border:0;cursor:pointer}
 </head>
 <body>
 <div class="box">
-<h2>Sign Up</h2>
+<h2>CNS Student Sign Up</h2>
 <p><?= $msg ?></p>
 <form method="POST">
   <input name="fullname" placeholder="Full name" required>
